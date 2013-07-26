@@ -1,0 +1,22 @@
+
+chat:
+  remove-whitespace: yes
+  remove-repeating: yes
+  remove-duplicate: yes
+  record: no
+
+commands:
+  ignore-duplicate: yes
+
+punishment: kick
+cooldown: 120
+
+reduce-join-quit-messaging: no
+version-check: yes
+
+messages:
+    kick: "Spamming!"
+    mute: "You have been muted for spamming!"
+    ban: "You have a temporary ban for spamming!"
+
+version: 2

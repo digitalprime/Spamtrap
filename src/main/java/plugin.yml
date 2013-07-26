@@ -1,0 +1,18 @@
+name: SpamTrap
+author: digitalprime
+authorEmail: digitalprime@sourcebin.org
+authorUrl: http://redmine.sourcebin.org/projects/spamtrap
+main: org.sourcebin.digitalprime.spamtrap.SpamTrapPlugin
+version: 0.2.3
+database: false
+
+commands:
+    spamtrapreload:
+        description: reloads the spamtrap configuration file.
+        aliases: [str, streload]
+
+permissions:
+    spamtrap.reload:
+        default: op
+    spamtrap.exempt:
+        default: op
