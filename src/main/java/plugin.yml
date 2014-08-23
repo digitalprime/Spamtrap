@@ -1,9 +1,9 @@
 name: SpamTrap
 author: digitalprime
 authorEmail: digitalprime@sourcebin.org
-authorUrl: http://redmine.sourcebin.org/projects/spamtrap
+authorUrl: https://github.com/digitalprime/SpamTrap
 main: org.sourcebin.digitalprime.spamtrap.SpamTrapPlugin
-version: 0.2.3
+version: 0.2.4
 database: false
 
 commands:

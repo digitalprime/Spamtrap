@@ -65,4 +65,3 @@ SpamTrap has the ability to check if it is up to date. It will not update itself
 
  * `spamtrap.reload`. The default is set to operator.
  * `spamtrap.exempt`. Exemption from SpamTrap checks (this includes command protection). The default is set to operator.
-

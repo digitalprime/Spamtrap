@@ -84,9 +84,9 @@ public class SpamTrapPlugin extends JavaPlugin {
             getServer().getScheduler().scheduleSyncRepeatingTask(this, new LoginAnnounce(), SECINTICKS * 5, SECINTICKS * 5);
         }
 
-        if (getConfig().getBoolean("version-check")) {
-            getServer().getScheduler().runTaskAsynchronously(this, new SpamTrapUpdate(this));
-        }
+        //if (getConfig().getBoolean("version-check")) {
+        //    getServer().getScheduler().runTaskAsynchronously(this, new SpamTrapUpdate(this));
+        //}
     }
 
     @Override
