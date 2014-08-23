@@ -66,14 +66,3 @@ SpamTrap has the ability to check if it is up to date. It will not update itself
  * `spamtrap.reload`. The default is set to operator.
  * `spamtrap.exempt`. Exemption from SpamTrap checks (this includes command protection). The default is set to operator.
 
-# Edge & Release Builds
-
-Edge builds are usually nightly and are available at [jenkins.sourcebin.org](http://jenkins.sourcebin.org/job/SpamTrap/). These builds are not release builds and might be unstable so use at your own risk.
-
-# Bugs or Issues
-Please use the ticket system for reporting any bugs or issues you may find. The quicker they are reported the quicker they get fixed. Thanks
-
-# Donations
-
-If you find this plugin (or any of my plugins) useful please take the time to [donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YVBUKXRCC8C9A). I develop these plugins in my free time (which I do not have a lot of) and your contribution will help me to continue my work on these projects. Thank you.
-
